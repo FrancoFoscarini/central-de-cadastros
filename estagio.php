@@ -19,7 +19,7 @@ require_once 'header.php';
 
           <div class="form-group">
             <label for="inputCarteiraDeIdentidade" class="col-lg-2 control-label">Carteira de Identidade</label>
-            <div class="col-lg-10">
+            <div class="col-lg-4">
               <input type="text" class="form-control" name="rg" id="inputCarteiraDeIdentidade" placeholder="Uasr Mascara">
             </div>
           </div>
